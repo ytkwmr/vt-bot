@@ -1,1 +1,1 @@
-web: python testo365.py
+web: python index.py
